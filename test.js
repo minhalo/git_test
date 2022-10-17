@@ -10,5 +10,5 @@ if (a == 1 && a == 2 && a == 3) {
 }
 
 console.log(a == 1);
-
+dmm
 // git remote set - url origin https://github.com/minhalo/Angular_test.git
